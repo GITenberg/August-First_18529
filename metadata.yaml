@@ -1,0 +1,43 @@
+_repo: August-First_18529
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Keller, Arthur Ignatius
+    aliases:
+    - Keller, A. I. (Arthur Ignatius)
+    - Keller, Arthur I.
+    birthdate: 1866
+    deathdate: 1924
+    gutenberg_agent_id: '7429'
+    url: http://www.gutenberg.org/2009/agents/7429
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Andrews, Mary Raymond Shipman
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '1687'
+    url: http://www.gutenberg.org/2009/agents/1687
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Raymond_Shipman_Andrews
+  - agent_name: Murray, Roy Irving
+    gutenberg_agent_id: '8088'
+    url: http://www.gutenberg.org/2009/agents/8088
+description: ''
+gutenberg_issued: '2006-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18529'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'Clergy -- Fiction'
+- !lcsh 'Epistolary fiction'
+title: August First
+url: http://www.gutenberg.org/ebooks/18529
